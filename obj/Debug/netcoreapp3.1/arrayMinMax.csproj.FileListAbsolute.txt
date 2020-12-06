@@ -1,0 +1,13 @@
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.exe
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.deps.json
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.runtimeconfig.json
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.runtimeconfig.dev.json
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.dll
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\bin\Debug\netcoreapp3.1\arrayMinMax.pdb
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.csprojAssemblyReference.cache
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.AssemblyInfoInputs.cache
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.AssemblyInfo.cs
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.csproj.CoreCompileInputs.cache
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.dll
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.pdb
+C:\Users\veldy_fyzztec\Documents\my_projects\arrayMinMax\obj\Debug\netcoreapp3.1\arrayMinMax.genruntimeconfig.cache
